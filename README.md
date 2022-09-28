@@ -8,6 +8,12 @@
 
 Uma análise explorátorio dos dados disponíveis no Inside Airbnb. Dados utilizados são da data de 12/09/2022.
 
+#### Biblitoecas Utilizadas:
+* pandas 
+* matplotlib
+* folium
+* seaborn
+
 
 **Links:**
 * [Linkedin](http://www.linkedin.com/in/breno-cavigeo/)
